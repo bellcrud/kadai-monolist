@@ -111,3 +111,13 @@ p.item-title {
 .user-profile .status ul li .status-value {
     font-size: 18px;
 }
+
+/* item */
+.item .panel-body {
+    height: 150px;
+}
+.item .buttons form {
+    display: inline-block;
+    margin-top: 0 5px;
+    float: left;
+}
